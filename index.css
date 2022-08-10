@@ -1,0 +1,38 @@
+.body{
+  max-width: 100%;
+}
+.container{
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+}
+.nav{
+  width:10%;
+  height: 500px;
+  background-color: aquamarine;
+}
+.header{
+  width: 800px;
+  height: 100px;
+  background-color: chartreuse;
+}
+.article{
+  width:600px;
+  height: 300px;
+  background-color: aliceblue;
+}
+.aside{
+  width:200px;
+  height: 400px;
+  background-color: bisque;
+}
+.footer{
+  width: 600px;
+  height: 100px;
+  background-color: chartreuse;
+}
+p{
+  margin-top:20px ;
+  margin-left:20px ;
+}
